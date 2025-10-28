@@ -7,6 +7,7 @@ Functional 3d printed tapped holes with no extra hardware or modification to pri
 # Design Principal
   - Create a clearance hole for the given bolt size
   - Create small circles on the clearance circle such that the radius from hole center to the new circle edge is the tapped radius
-`![Upgrade photo](Tapped_Hole_Design.png)
   - 3 circles creates a strong fit takes longer to screw in each bolt
   - 2 circles creates an adequate fit, but is less tight than with 3
+
+![Upgrade photo](Tapped_Hole_Design.png)
